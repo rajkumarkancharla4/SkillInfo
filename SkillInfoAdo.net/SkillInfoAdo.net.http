@@ -1,0 +1,6 @@
+@SkillInfoAdo.net_HostAddress = http://localhost:5176
+
+GET {{SkillInfoAdo.net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
